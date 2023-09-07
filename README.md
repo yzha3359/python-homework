@@ -1,2 +1,2 @@
 # python-challenge
-Module1 Python Week2 Homework
+Module2 Python Week2 Homework
