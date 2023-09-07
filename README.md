@@ -13,7 +13,6 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
   (commit or discard the untracked or modified content in submodules)
         modified:   python-homework (untracked content)
-
 no changes added to commit (use "git add" and/or "git commit -a")
 (base)
 diana@DESKTOP-SDGQERG MINGW64 /c/users/diana/Downloads/Fintech/Homework_repo/Module2 (master)
