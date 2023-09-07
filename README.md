@@ -29,4 +29,4 @@ Module2 Python Week2 Homework
   diana@DESKTOP-SDGQERG MINGW64 /c/users/diana/Downloads/Fintech/Homework_repo/Module2 (master)
   $
 
-* However, after refresh git hub repo no folder uploaded.
+## However, after refresh git hub repo no folder uploaded.
